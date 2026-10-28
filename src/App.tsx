@@ -1,5 +1,5 @@
-import { EntityCard } from "./components/EntityCard"
-import { EntityForm } from "./components/EntityForm"
+import { EntityCard } from "./components/HouseCard"
+import { EntityForm } from "./components/HouseForm"
 import "./App.css"
 
 export default function App() {

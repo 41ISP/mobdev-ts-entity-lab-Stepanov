@@ -1,3 +1,4 @@
+
 export function EntityCard() {
     return (
         <article className="card">
